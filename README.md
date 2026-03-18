@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Dharmeet 👋
 
-<!--
-**Dharmeet-Singh-Gulati/Dharmeet-Singh-Gulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer focused on building real-world React applications  
+🎯 Currently focused on building real-world React apps and strengthening core JavaScript
+📍 Based in India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Frontend: React, JavaScript (ES6+), HTML, CSS, Tailwind
+- State Management: Redux Toolkit
+- Tools: Git, GitHub, Firebase, Vite
+- Others: REST APIs, Responsive Design
+
+---
+
+## 📌 Featured Projects
+
+### 🎬 Netflix Clone
+- Built using React + TMDB API
+- Features: Authentication, movie browsing, trailer playback, Infinte Scrolling
+- 💻 Code: https://github.com/Dharmeet-Singh-Gulati/BingeWorthyGPT-VideoStreamPlatform
+
+---
+
+### 📺 YouTube Clone
+- Built with React + YouTube API
+- Features: Search, video streaming, nested comments, live comments
+- 💻 Code:https://github.com/Dharmeet-Singh-Gulati/Youtube-Clone
+  
+---
+
+### 🍔 Food Delivery App
+- Built using React + Redux Toolkit
+- Features: Cart, dynamic menu, API integration
+- 💻 Code: https://github.com/Dharmeet-Singh-Gulati/Namaste-React
+
+---
+
+## 📈 What I'm Working On
+
+- Improving problem-solving skills
+- Building scalable frontend apps
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.naukri.com/mnjuser/profile?id=&altresid
+- GitHub: https://github.com/Dharmeet-Singh-Gulati
