@@ -21,6 +21,7 @@
 - Built using React + TMDB API
 - Features: Authentication, movie browsing, trailer playback, Infinte Scrolling
 - 💻 Code: https://github.com/Dharmeet-Singh-Gulati/BingeWorthyGPT-VideoStreamPlatform
+- Live Link: https://streamgpt-80b01.web.app/
 
 ---
 
@@ -28,6 +29,7 @@
 - Built with React + YouTube API
 - Features: Search, video streaming, nested comments, live comments
 - 💻 Code:https://github.com/Dharmeet-Singh-Gulati/Youtube-Clone
+- Live Link: https://youtube-clone-sooty-six.vercel.app/
   
 ---
 
@@ -35,6 +37,7 @@
 - Built using React + Redux Toolkit
 - Features: Cart, dynamic menu, API integration
 - 💻 Code: https://github.com/Dharmeet-Singh-Gulati/Namaste-React
+- Live Link: https://food-ordering-app-2d4cd.web.app/
 
 ---
 
