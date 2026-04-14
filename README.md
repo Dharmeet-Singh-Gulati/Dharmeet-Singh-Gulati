@@ -50,5 +50,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.naukri.com/mnjuser/profile?id=&altresid
+- LinkedIn: www.linkedin.com/in/dharmeet-singh-gulati-4109852b1
 - GitHub: https://github.com/Dharmeet-Singh-Gulati
